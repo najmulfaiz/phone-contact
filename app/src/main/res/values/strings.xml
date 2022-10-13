@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L2_MAD</string>
+    <string name="txt_nim">NIM</string>
+    <string name="txt_nama">Nama</string>
+    <string name="txt_nomor_telepon">Nomor Telepon</string>
+    <string name="txt_alamat">Alamat</string>
+    <string name="colon">:</string>
+</resources>
